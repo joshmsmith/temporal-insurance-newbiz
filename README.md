@@ -23,4 +23,4 @@ temporal server start-dev
 ```
 
 ## Related
-Credit to https://learn.temporal.io/getting_started/java/first_program_in_java/ for
+Credit to https://learn.temporal.io/getting_started/java/first_program_in_java/ for the idea and structure.
